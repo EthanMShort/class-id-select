@@ -1,7 +1,7 @@
-#Class and ID Selectors
+# Class and ID Selectors
 Learning how to add class and ID attributes to HTML elements with CSS
 
-###Author
+### Author
 @EthanMShort - Ethan Short
 
 Part of "The Odin Project
